@@ -1,5 +1,5 @@
 {
-    "name": "goalgorilla/open_social",
+    "name": "rotary_org/open_social",
     "description": "Open Social is a distribution for building social communities and intranets.",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
@@ -114,7 +114,7 @@
         "composer/installers": "^1.6",
         "oomphinc/composer-installers-extender": "^1.1",
         "drupal-composer/drupal-scaffold": "^2.5.0",
-        "drupal/core": "~8.8.8",
+        "drupal/core": "^8.9",
         "drupal/address": "1.7",
         "drupal/admin_toolbar": "1.27",
         "drupal/ajax_comments": "^1.0",
