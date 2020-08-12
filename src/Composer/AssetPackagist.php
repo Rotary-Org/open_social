@@ -33,7 +33,7 @@ final class AssetPackagist {
       if ($file->exists()) {
         $info = $file->read();
 
-        if (isset($info['require']['goalgorilla/open_social'])) {
+        if (isset($info['require']['rotary_org/open_social'])) {
           return $file;
         }
       }
